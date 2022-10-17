@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Veronika!
 ## 👀 I’m looking for a job as QA Engineer.
-📫 Reach me in [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/averoniqa) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akzigitova1012@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/averoniqa) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akzigitova1012@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/veronika-akzigitova)
 
 <!---
 aVeroniqa/aVeroniqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
