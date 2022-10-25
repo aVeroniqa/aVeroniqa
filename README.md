@@ -5,7 +5,7 @@
 Language and Tools
 <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192"/>
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-Chrome%20DevTools-brightgreen)
