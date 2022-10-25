@@ -12,6 +12,7 @@ Language and Tools
 ![CharlesProxy](https://img.shields.io/badge/Charles_Proxy-000000.svg?style=for-the-badge&logo=&logoColor=4285F4)
 ![ApiDoc](https://img.shields.io/badge/ApiDoc-000000.svg?style=for-the-badge&logo=&logoColor=4285F4)
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=ffffff)
 <!---
 aVeroniqa/aVeroniqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
