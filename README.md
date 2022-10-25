@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Veronika! I’m looking for a job as QA Engineer.
 
 
-Link to my [CV](https://ufa.hh.ru/resume/3a55ea80ff0b2c9c9f0039ed1f424e43544f61) or reach me in [<img src="https://img.shields.io/badge/Telegram-0d1117?style=flat&logo=telegram&logoColor=2CA5E0" />](https://t.me/averoniqa) [<img src="https://img.shields.io/badge/Gmail-0d1117?style=flat&logo=gmail&logoColor=D14836"/>](mailto:akzigitova1012@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0077B5"/>](https://www.linkedin.com/in/veronika-akzigitova)
+Link to my [CV](https://ufa.hh.ru/resume/3a55ea80ff0b2c9c9f0039ed1f424e43544f61) or reach me in [<img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=2CA5E0" />](https://t.me/averoniqa) [<img src="https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=D14836"/>](mailto:akzigitova1012@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5"/>](https://www.linkedin.com/in/veronika-akzigitova)
 
 ## Language and Tools
 
