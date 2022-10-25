@@ -7,7 +7,7 @@ Language and Tools
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192"/>
 ![Obsidian](https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=483699)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![Notepad++](https://img.shields.io/badge/Notepad++-000000.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=90E59A)
 ![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-Chrome%20DevTools-brightgreen)
 <!---
 aVeroniqa/aVeroniqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
